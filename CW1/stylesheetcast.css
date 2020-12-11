@@ -1,0 +1,79 @@
+.topnav {
+  background-color: #9370DB;
+  overflow: hidden;
+  text-align: center;
+}
+.topnav a{
+float: center;
+color:#F0E68C;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px
+  }
+body{
+  background-image: url("sunsetbackground.jpg")
+}
+h2{
+  color:#F0E68C;
+  text-align: center;
+  background-color: #9370DB
+  }
+  h1{
+    color:#F0E68C;
+    text-align: center;
+    background-color: #9370DB
+    }
+  p{
+    text-align: center;
+    width: 520px;
+    padding:10px;
+    margin: 0 auto;
+  }
+  p1{
+    text-align: center;
+    width: 520px;
+    padding:10px;
+    margin: 0 auto;
+  }
+  Audio {
+    text-align: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+div.column {
+  width: auto: 50%;
+  padding: 5px;
+  box-sizing: border-box;
+  float: left;
+}
+.floatfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+#GeorgeMacKay {
+  float: left;
+  margin: 0 15px 0 0;
+}
+img {
+  width: 50%;
+  max-width: 250px;
+  border-radius: 8px;
+  }
+  #DeanCharlesChapman {
+    float: left;
+    margin: 0 15px 0 0;
+  }
+  #benedictCumberbatch {
+      float: left;
+      margin: 0 15px 0 0;
+  }

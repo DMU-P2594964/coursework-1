@@ -1,0 +1,43 @@
+.topnav {
+  background-color: #9370DB;
+  overflow: hidden;
+  text-align: center;
+}
+.topnav a{
+float: center;
+color:#F0E68C;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px
+  }
+
+  h1 {
+    color:#F0E68C;
+    text-align: center;
+    background-color: #9370DB
+  }
+  h2{
+  color:#F0E68C;
+  text-align: center;
+  background-color:#9370DB
+}
+  p{
+    text-align: center;
+    width: 520px;
+    padding: 10px;
+    margin: 0 auto;
+  }
+
+    h1 {
+      text-align: center;
+  }
+  video {
+    t
+  }
+  body{
+    background-image: url("sunsetbackground.jpg")
+  }
+  footer{
+    text-align: center;
+  }
